@@ -1,0 +1,5 @@
+git add <name of file>
+git add.
+git commit -m <commit message>
+git push
+git switch <branch name>
